@@ -1,7 +1,7 @@
 {
   "name": "pretty-json-middleware",
   "description": "A middleware to pretty print json",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "scripts": {
     "test": "mocha test/index.js"
   },
