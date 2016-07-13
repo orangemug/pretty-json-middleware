@@ -1,0 +1,15 @@
+{
+  "name": "pretty-json-middleware",
+  "description": "A middleware to pretty print json",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "mocha test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/orangemug/pretty-json-middleware.git"
+  },
+  "devDependencies": {},
+  "dependencies": {},
+  "license": "MIT"
+}
