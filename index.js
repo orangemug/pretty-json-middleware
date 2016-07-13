@@ -9,14 +9,14 @@ module.exports = function(opts) {
 
       if(enabled) {
         // Save state
-        var oldSpaces   = app.get("json spaces");
-        app.set("json spaces", spaces);
+        var oldSpaces   = req.app.get("json spaces");
+        req.app.set("json spaces", spaces);
 
         // Call function
         fn.call(res, body);
 
         // Restore state
-        app.set("json spaces", oldSpaces);
+        req.app.set("json spaces", oldSpaces);
       }
       else {
         fn.call(res, body);
