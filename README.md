@@ -3,13 +3,11 @@ A middleware to pretty print json
 
 [![stability-unstable](https://img.shields.io/badge/stability-unstable-yellow.svg)][stability]
 [![Build Status](https://circleci.com/gh/orangemug/pretty-json-middleware.png?style=shield)][circleci]
-[![Test Coverage](https://codeclimate.com/github/orangemug/pretty-json-middleware/badges/coverage.svg)][codeclimate]
 [![Dependency Status](https://david-dm.org/orangemug/pretty-json-middleware.svg)][dm-prod]
 [![Dev Dependency Status](https://david-dm.org/orangemug/pretty-json-middleware/dev-status.svg)][dm-dev]
 
 [stability]:   https://github.com/orangemug/stability-badges#unstable
 [circleci]:    https://circleci.com/gh/orangemug/pretty-json-middleware
-[codeclimate]: https://codeclimate.com/github/orangemug/pretty-json-middleware/coverage
 [dm-prod]:     https://david-dm.org/orangemug/pretty-json-middleware
 [dm-dev]:      https://david-dm.org/orangemug/pretty-json-middleware#info=devDependencies
 
