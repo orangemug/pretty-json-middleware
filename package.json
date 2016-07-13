@@ -9,7 +9,11 @@
     "type": "git",
     "url": "git://github.com/orangemug/pretty-json-middleware.git"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "express": "^4.14.0",
+    "got": "^6.3.0",
+    "mocha": "^2.5.3"
+  },
   "dependencies": {},
   "license": "MIT"
 }
