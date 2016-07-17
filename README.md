@@ -23,7 +23,7 @@ npm install orangemug/pretty-json-middleware
 Just mount it as a middleware
 
 ```js
-app.get(
+app.use(
   require("pretty-json-middleware")(opts)
 );
 ```
